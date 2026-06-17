@@ -1,0 +1,15 @@
+# Data Collection & API Crawling
+requests>=2.31.0
+tqdm>=4.66.0
+
+# Data Manipulation & Analysis
+pandas>=2.1.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning & Fraud Detection Pipeline
+scikit-learn>=1.3.0
