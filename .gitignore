@@ -1,1 +1,13 @@
+# Chặn các file dữ liệu trung gian
+*.csv
+*.json
+outputs/
+output/
 
+# Chặn thư mục chứa ảnh tự động sinh ra khi chạy code
+eda_preprocessing/
+eda_features/
+
+# Chặn file rác của Jupyter Notebook
+.ipynb_checkpoints/
+__pycache__/
