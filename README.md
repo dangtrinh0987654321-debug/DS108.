@@ -329,7 +329,7 @@ Chấp nhận threshold khi `prec_vs_pseudo ≥ 0.90` và `near-threshold rate <
 
 **Giảng viên hướng dẫn:**  
 - TS. Nguyễn Gia Tuấn Anh – anhngt@uit.edu.vn  
-- Trần Quốc Khánh, BSc – khanhtq@uit.edu.vn
+- CN. Trần Quốc Khánh – khanhtq@uit.edu.vn
 
 ---
 
