@@ -1,0 +1,4 @@
+customer_id,date_min,date_max,active_days,review_count_total,reviews_per_day,time_gap_std,max_reviews_in_one_day,account_age_days,rating_variance,percent_extreme_rating,single_brand_focus_ratio,review_length_variance,avatar_default,label
+5952130,2022-11-29 01:17:00,2022-11-29 01:17:00,1,1,1.0,0.0,1,3287.52,0.0,1.0,1.0,,0,
+7784597,2023-08-16 20:11:00,2023-08-16 20:11:00,1,1,1.0,0.0,1,2922.2400000000002,0.0,0.0,1.0,,1,
+28077018,2023-07-29 18:56:00,2023-07-29 18:56:00,1,1,1.0,0.0,1,1461.1200000000001,0.0,1.0,1.0,,1,
